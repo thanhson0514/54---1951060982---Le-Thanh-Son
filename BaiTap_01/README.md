@@ -21,3 +21,7 @@ live-server: https://www.npmjs.com/package/live-server
 
 Hoặc:
 > Dùng extensions live-server của VSCode
+
+## Public
+
+> website: https://thanhson0514.github.io/54-1951060982-LeThanhSon/BaiTap_01/public/
