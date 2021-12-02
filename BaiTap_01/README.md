@@ -15,7 +15,7 @@
 - Chạy server:
 
 live-server: https://www.npmjs.com/package/live-server
-```
+```bash
 > live-server
 ```
 
