@@ -16,6 +16,7 @@
 
 live-server: https://www.npmjs.com/package/live-server
 ```bash
+> cd BaiTap_01
 > live-server
 ```
 
